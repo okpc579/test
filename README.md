@@ -16,45 +16,30 @@
     <td colspan=2 rowspan=9>Component<br>/ 서비스</td>
     <td colspan=2><a href="https://github.com/K-PaaS/cp-portal-common-api">Common API</a></td>
     <td colspan=2>-</td>
-    <td colspan=2><a href="https://github.com/K-PaaS/ap-api-gateway-release">Gateway</a></td>
+    <td colspan=2><a href="https://github.com/K-PaaS/ap-mongodb-shard-release">MongoDB</a></td>
   </tr>
   <tr align=center>
     <td colspan=2><a href="https://github.com/K-PaaS/cp-metrics-api">Metric API</a></td>
     <td colspan=2>  </td>
-    <td colspan=2><a href="https://github.com/K-PaaS/ap-app-lifecycle-release">Lifecycle</a></td>
+    <td colspan=2><a href="https://github.com/K-PaaS/ap-mysql-release">MySQL</a></td>
   </tr>
   <tr align=center>
     <td colspan=2><a href="https://github.com/K-PaaS/cp-portal-api">Portal API</a></td>
     <td colspan=2>  </td>
-    <td colspan=2><a href="https://github.com/K-PaaS/service-deployment/blob/master/logging-service/logging-service.yml">Logging</a></td>
+    <td colspan=2><a href="https://github.com/K-PaaS/ap-pipeline-release">Pipeline</a></td>
   </tr>
   <tr align=center>
     <td colspan=2><a href="https://github.com/K-PaaS/cp-portal-ui">Portal UI</a></td>
     <td colspan=2>  </td>
-    <td colspan=2><a href="https://github.com/K-PaaS/ap-mongodb-shard-release">MongoDB</a></td>
+    <td colspan=2><a href="https://github.com/K-PaaS/ap-rabbitmq-release">RabbintMQ</a></td>
   </tr>
   <tr align=center>
     <td colspan=2><a href="https://github.com/K-PaaS/cp-portal-service-broker">Service Broker</a></td>
     <td colspan=2>  </td>
-    <td colspan=2><a href="https://github.com/K-PaaS/ap-mysql-release">MySQL</a></td>
-  </tr>
-  <tr align=center>
-    <td colspan=2><a href="https://github.com/K-PaaS/cp-metrics-api">Terraman API</a></td>
-    <td colspan=2>  </td>
-    <td colspan=2><a href="https://github.com/K-PaaS/ap-pipeline-release">Pipeline</a></td>
-  </tr>
-  <tr align=center>
-    <td colspan=2>  </td>
-    <td colspan=2>  </td>
-    <td colspan=2><a href="https://github.com/K-PaaS/ap-rabbitmq-release">RabbintMQ</a></td>
-  </tr>
-  <tr align=center>
-    <td colspan=2>  </td>
-    <td colspan=2>  </td>
     <td colspan=2><a href="https://github.com/K-PaaS/ap-on-demand-redis-release">Redis</a></td>
   </tr>
   <tr align=center>
-    <td colspan=2>  </td>
+    <td colspan=2><a href="https://github.com/K-PaaS/cp-metrics-api">Terraman API</a></td>
     <td colspan=2>  </td>
     <td colspan=2><a href="https://github.com/K-PaaS/ap-source-control-release">SoureceControl</a></td>
   </tr>
